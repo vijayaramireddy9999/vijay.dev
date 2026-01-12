@@ -100,7 +100,7 @@ function Projects() {
               </div>
 
               <a
-                href="https://github.com/vijayaramireddy9999/vijay-stores"
+                href="https://github.com/vijayaramireddy9999/vijay_Store_Backend"
                 className="px-5 py-2 rounded-lg border border-white/10 text-sky-400 text-sm hover:bg-white/5 transition"
               >
                 GitHub
