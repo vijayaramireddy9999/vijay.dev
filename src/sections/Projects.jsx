@@ -46,13 +46,13 @@ function Projects() {
 
               <div className="flex gap-3">
                 <a
-                  href="#"
+                  href="https://chaibuster.netlify.app/"
                   className="px-5 py-3 rounded-lg bg-sky-500 text-black text-sm font-semibold hover:bg-sky-400 transition"
                 >
                   Live Demo
                 </a>
                 <a
-                  href="#"
+                  href="https://github.com/vijayaramireddy9999/chaibuster-frontend"
                   className="px-5 py-3 rounded-lg border border-white/10 text-sky-400 text-sm hover:bg-white/5 transition"
                 >
                   GitHub
@@ -100,7 +100,7 @@ function Projects() {
               </div>
 
               <a
-                href="#"
+                href="https://github.com/vijayaramireddy9999/vijay-stores"
                 className="px-5 py-2 rounded-lg border border-white/10 text-sky-400 text-sm hover:bg-white/5 transition"
               >
                 GitHub
