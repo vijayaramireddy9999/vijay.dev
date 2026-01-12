@@ -10,19 +10,20 @@ function Home() {
 
         {/* PROFILE IMAGE */}
         <div className="flex justify-center mb-10 md:mb-14">
-          <img
-            src={profileImg}
-            alt="Vijaya Rami Reddy"
-            className="
-              w-36 h-34
-              md:w-52 md:h-54
-              rounded-l
-              object-cover
-              object-[90%_15%]
-              border border-white/10
-              shadow-[0_20px_40px_rgba(0,0,0,0.6)]
-            "
-          />
+         <img
+          src={profileImg}
+          alt="Vijaya Rami Reddy"
+          className="
+            w-36 h-36
+            md:w-52 md:h-52
+            rounded-full
+            object-cover
+            object-[90%_15%]
+            border border-white/10
+            shadow-[0_20px_40px_rgba(0,0,0,0.6)]
+          "
+        />
+
         </div>
 
         {/* MAIN CONTENT */}
